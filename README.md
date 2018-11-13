@@ -8,11 +8,11 @@ This application is a demonstration of a full stack application with HTML/CSS im
 
 The application will start with a few classic burgers already in the database.  The User may enter any burger to add a new burger to the MySQL database.  The user may then "eat" a burger by clicking on the button, or "remake" a burger, which will change the section that the burger is in on the page and change its status within the database.
 
-###Demo
+### Demo
 
 The working application can be found [here](https://blooming-fjord-62134.herokuapp.com/)
 
-###Installation
+### Installation
 
 Clone this repository and navigate to the burger application folder on your computer terminal.  Install the application dependencies with the following command:
 
